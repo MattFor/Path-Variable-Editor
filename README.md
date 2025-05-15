@@ -4,6 +4,12 @@ A simple Python-based graphical user interface (GUI) tool for managing your Wind
 
 **Created by:** MattFor - mattfor@relaxy.xyz
 
+
+Keep getting this error? I'm here to fix that!
+
+![Error Screenshot](./error.png)
+
+
 ## Features
 
 * View User and System PATH entries in a clear, list format.
