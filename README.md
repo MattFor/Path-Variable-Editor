@@ -1,6 +1,6 @@
 # PATH Editor
 
-A simple Python-based graphical user interface (GUI) tool for managing your Windows PATH environment variable with a user-friendly way to view, add, edit, delete, and reorder individual entries in both the User and System PATH variables, with an inbuilt ability to handle >2047 character PATHs.
+A simple Python-based GUI tool for managing your Windows PATH environment variable with a user-friendly way to view, add, edit, delete, and reorder individual entries in both the User and System PATH variables, with an inbuilt ability to handle >2047 character PATHs.
 
 **Created by:** MattFor - mattfor@relaxy.xyz
 
