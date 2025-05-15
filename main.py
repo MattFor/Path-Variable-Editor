@@ -1,6 +1,11 @@
-#
-#  Created by MattFor on 15/05/2025
-#
+"""
+Created by MattFor on 15/05/2025
+
+Copyright © 2025 by MattFor.
+
+This software is provided under a **Proprietary License**.
+Please refer to the `LICENSE` file in this repository for the full terms.
+"""
 
 import os
 import json
