@@ -67,6 +67,6 @@ Keep getting this error? I'm here to fix that!
 
 This software is provided under a **Proprietary License**.
 
-You are not permitted to use, copy, distribute, modify, or create derivative works of this Software, in whole or in part, without express written permission from the copyright holder, MattFor.
+You are not permitted to distribute, modify, or create derivative works of this Software, in whole or in part, without express written permission from the copyright holder, MattFor.
 
 Please refer to the `LICENSE` file in this repository for the full terms. ;)
